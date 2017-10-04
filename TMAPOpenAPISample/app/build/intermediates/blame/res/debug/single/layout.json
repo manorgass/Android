@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "C:\\Users\\KorHacker\\Desktop\\TMAPOpenAPISample\\app\\build\\intermediates\\res\\merged\\debug\\layout\\image_overlay.xml",
+        "source": "C:\\Users\\KorHacker\\Desktop\\TMAPOpenAPISample\\app\\src\\main\\res\\layout\\image_overlay.xml"
+    },
+    {
+        "merged": "C:\\Users\\KorHacker\\Desktop\\TMAPOpenAPISample\\app\\build\\intermediates\\res\\merged\\debug\\layout\\main_activity.xml",
+        "source": "C:\\Users\\KorHacker\\Desktop\\TMAPOpenAPISample\\app\\src\\main\\res\\layout\\main_activity.xml"
+    },
+    {
+        "merged": "C:\\Users\\KorHacker\\Desktop\\TMAPOpenAPISample\\app\\build\\intermediates\\res\\merged\\debug\\layout\\bubble_popup.xml",
+        "source": "C:\\Users\\KorHacker\\Desktop\\TMAPOpenAPISample\\app\\src\\main\\res\\layout\\bubble_popup.xml"
+    },
+    {
+        "merged": "C:\\Users\\KorHacker\\Desktop\\TMAPOpenAPISample\\app\\build\\intermediates\\res\\merged\\debug\\layout\\base_activity.xml",
+        "source": "C:\\Users\\KorHacker\\Desktop\\TMAPOpenAPISample\\app\\src\\main\\res\\layout\\base_activity.xml"
+    }
+]

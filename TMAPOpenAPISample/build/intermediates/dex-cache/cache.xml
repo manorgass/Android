@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\KorHacker\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\21.0.3\support-annotations-21.0.3.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4b74cefe1f0c1b819e7260c8627a14674e37fd35">
+        <dex dex="C:\Users\KorHacker\Desktop\TMAPOpenAPISample\app\build\intermediates\pre-dexed\debug\support-annotations-21.0.3_0b7e17ea5152c7e5a58a7ebfb1907d4c459ab3a3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\KorHacker\Desktop\TMAPOpenAPISample\app\libs\com.skp.Tmap_1.0.48.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f311d9fdd9404329f69eceaf7d75c955c2291584">
+        <dex dex="C:\Users\KorHacker\Desktop\TMAPOpenAPISample\app\build\intermediates\pre-dexed\debug\com.skp.Tmap_1.0.48_70a482e8db52f6eafa57aa84625bf0f40cc556c2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\KorHacker\Desktop\TMAPOpenAPISample\app\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.3\jars\libs\internal_impl-21.0.3.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="01ec05bfbafcc07646ba813000bf2ef11742dd03">
+        <dex dex="C:\Users\KorHacker\Desktop\TMAPOpenAPISample\app\build\intermediates\pre-dexed\debug\internal_impl-21.0.3_1d14082c7ca6d29665842212bdff3318577cc152.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\KorHacker\Desktop\TMAPOpenAPISample\app\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.3\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2c91c949a45a21cdecf26e03951e46c7beec9ad8">
+        <dex dex="C:\Users\KorHacker\Desktop\TMAPOpenAPISample\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-21.0.3_cd64b4309516ee7c43f3a0cb40414b0da94f8b45.jar" />
+    </item>
+
+</items>
