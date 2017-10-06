@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Dev\Android\Android_DaumMap_Sample_1.3.1.0\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.1\jars\libs\internal_impl-23.1.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="21.1.1"
+        sha1="a4de9c81ae239414e1ed0f86441b02abaf29bca9">
+        <dex dex="C:\Dev\Android\Android_DaumMap_Sample_1.3.1.0\app\build\intermediates\pre-dexed\debug\internal_impl-23.1.1_4cf6517ff7c8815f850634176316409a75b2cddd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\KorHacker\Downloads\Android_DaumMap_Sample_1.3.1.0\Android_DaumMap_Sample_1.3.1.0\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="21.1.1"
+        sha1="6cbc7773921fcfedbe55657578f0cbfe614778dc">
+        <dex dex="C:\Users\KorHacker\Downloads\Android_DaumMap_Sample_1.3.1.0\Android_DaumMap_Sample_1.3.1.0\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-23.1.1_2940167f58234f5c33c450bfdb6473bc8daaa8d9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\KorHacker\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.1.1\support-annotations-23.1.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="21.1.1"
+        sha1="8d680ba5a623724d1fb0e81c36a790f023a6cede">
+        <dex dex="C:\Users\KorHacker\Downloads\Android_DaumMap_Sample_1.3.1.0\Android_DaumMap_Sample_1.3.1.0\app\build\intermediates\pre-dexed\debug\support-annotations-23.1.1_f5936d7086e5de011ef10e4f7308d9461ffd597e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\KorHacker\Downloads\Android_DaumMap_Sample_1.3.1.0\Android_DaumMap_Sample_1.3.1.0\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.1\jars\libs\internal_impl-23.1.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="21.1.1"
+        sha1="a4de9c81ae239414e1ed0f86441b02abaf29bca9">
+        <dex dex="C:\Users\KorHacker\Downloads\Android_DaumMap_Sample_1.3.1.0\Android_DaumMap_Sample_1.3.1.0\app\build\intermediates\pre-dexed\debug\internal_impl-23.1.1_3382f712a5c758dff4c8f56b93563f18efb73a42.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Dev\Android\Android_DaumMap_Sample_1.3.1.0\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="21.1.1"
+        sha1="6cbc7773921fcfedbe55657578f0cbfe614778dc">
+        <dex dex="C:\Dev\Android\Android_DaumMap_Sample_1.3.1.0\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-23.1.1_3d6ebda70f009bd9436e91a74cf216d939601185.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Dev\Android\Android_DaumMap_Sample_1.3.1.0\app\libs\libDaumMapAndroid.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="21.1.1"
+        sha1="f096afe1be0bd0114ca942469b3be761fb26a578">
+        <dex dex="C:\Dev\Android\Android_DaumMap_Sample_1.3.1.0\app\build\intermediates\pre-dexed\debug\libDaumMapAndroid_e4ede88997605d8b3c171e3d946d9735d2bd548d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\KorHacker\Downloads\Android_DaumMap_Sample_1.3.1.0\Android_DaumMap_Sample_1.3.1.0\app\libs\libDaumMapAndroid.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="21.1.1"
+        sha1="f096afe1be0bd0114ca942469b3be761fb26a578">
+        <dex dex="C:\Users\KorHacker\Downloads\Android_DaumMap_Sample_1.3.1.0\Android_DaumMap_Sample_1.3.1.0\app\build\intermediates\pre-dexed\debug\libDaumMapAndroid_51ffc719b85ac5f9dd446a37588addb2c16c3e3b.jar" />
+    </item>
+
+</items>
