@@ -25,6 +25,7 @@ public class MainActivity extends AppCompatActivity {
     ProgressDialog progressDialog;
     ArrayList<MyContactInfo> mArr_contactInfo;
     ListView mlv_contactList;
+    int test;
     Button mBtn_onSaveBlackList;
 
     @Override
