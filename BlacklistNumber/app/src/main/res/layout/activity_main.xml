@@ -7,89 +7,17 @@
     android:orientation="vertical"
     tools:context="com.korhacker.blacklistnumber.MainActivity">
 
-    <TextView
-        android:id="@+id/tv_sbd"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:text="Hello World!"
-        app:layout_constraintBottom_toBottomOf="parent"
-        app:layout_constraintLeft_toLeftOf="parent"
-        app:layout_constraintRight_toRightOf="parent"
-        app:layout_constraintTop_toTopOf="parent" />
+    <ListView
+        android:id="@+id/lv_contactList"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1" />
 
     <Button
-        android:id="@+id/btn_getContact"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content" />
-
-
-    <TextView
+        android:id="@+id/btn_onSaveBlackList"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:textSize="25sp"
-        android:gravity="center"
-        android:textColor="#000000"
-        android:text="유통기한 설정"/>
-    <LinearLayout
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:orientation="vertical">
-
-        <LinearLayout
-            android:layout_width="match_parent"
-            android:layout_height="wrap_content"
-            android:orientation="horizontal">
-
-            <TextView
-                android:layout_width="0dp"
-                android:layout_height="wrap_content"
-                android:layout_weight="1"
-                android:gravity="center"
-                android:text="년" />
-
-            <TextView
-                android:layout_width="0dp"
-                android:layout_height="wrap_content"
-                android:layout_weight="1"
-                android:gravity="center"
-                android:text="월" />
-
-            <TextView
-                android:layout_width="0dp"
-                android:layout_height="wrap_content"
-                android:layout_weight="1"
-                android:gravity="center"
-                android:text="일" />
-
-
-        </LinearLayout>
-
-        <LinearLayout
-            android:layout_width="match_parent"
-            android:layout_height="wrap_content"
-            android:orientation="horizontal">
-
-            <NumberPicker
-                android:id="@+id/np_year"
-                android:layout_width="0dp"
-                android:layout_height="wrap_content"
-                android:layout_margin="5dp"
-                android:layout_weight="1" />
-
-            <NumberPicker
-                android:id="@+id/np_month"
-                android:layout_width="0dp"
-                android:layout_height="wrap_content"
-                android:layout_margin="5dp"
-                android:layout_weight="1" />
-
-            <NumberPicker
-                android:id="@+id/np_day"
-                android:layout_width="0dp"
-                android:layout_height="wrap_content"
-                android:layout_margin="5dp"
-                android:layout_weight="1" />
-        </LinearLayout>
-    </LinearLayout>
+        android:text="저장"
+        android:visibility="gone" />
 
 </LinearLayout>
